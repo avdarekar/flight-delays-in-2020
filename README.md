@@ -3,10 +3,17 @@
 I analyzed flight data in 2020 for my DSC 495 (Data Visualization) final project.
 
 ## File Descriptions
-- DSC 495 Final Project Data Cleaning.ipynb: Python code for cleaning the raw data files
-- flight_data_raw_1-6.zip & flight_data_raw_7-12.zip: raw data files
+- DSC_495_final_project_data_cleaning.ipynb: Jupyter notebook for cleaning the raw data files
 - Flight Delays.twb: Tableau dashboard containing data visualizations
 - DSC Final Project.pdf: presentation I created from Tableau visualizations
+- requirements.txt: required Python packages for installation
+
+### data 
+#### processed_data
+- flight_delays.csv: cleaned dataset used for analysis in Tableau 
+
+#### raw_data 
+This folder contains the raw datasets that came from the [Bureau of Transportation Statistics](https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FGJ).  
 
 ## Obtaining Data
 The raw data files came from the [Bureau of Transportation Statistics](https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FGJ).
