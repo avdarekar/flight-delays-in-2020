@@ -12,5 +12,7 @@ I analyzed flight data in 2020 for my DSC 495 (Data Visualization) final project
 The raw data files came from the [Bureau of Transportation Statistics](https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FGJ).
 
 ## Installation 
+To run the Jupyter notebook, install required packages with the requirements.txt file. 
 
 ## Usage
+Run the Jupyter notebook to create a cleaned dataset. Open the Flight Delays.twb file in Tableau. 
